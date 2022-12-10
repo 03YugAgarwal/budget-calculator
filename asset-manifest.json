@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/budget-calculator/static/css/main.28c6b7a1.css",
+    "main.js": "/budget-calculator/static/js/main.f147ef81.js",
+    "index.html": "/budget-calculator/index.html",
+    "main.28c6b7a1.css.map": "/budget-calculator/static/css/main.28c6b7a1.css.map",
+    "main.f147ef81.js.map": "/budget-calculator/static/js/main.f147ef81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28c6b7a1.css",
+    "static/js/main.f147ef81.js"
+  ]
+}
